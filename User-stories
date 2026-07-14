@@ -1,0 +1,25 @@
+# User Stories
+
+## Reservations
+
+As the reservation manager,
+I want to search for a customer by name,
+so I can quickly reserve seats without scrolling through the entire customer list.
+
+---
+
+As the reservation manager,
+I want customers who have already purchased tickets to disappear from my contact list,
+so I know who still needs to be contacted.
+
+---
+
+As the reservation manager,
+I want to select multiple seats for one purchase,
+so I don't have to enter the customer's information multiple times.
+
+---
+
+As the reservation manager,
+I want the app to automatically calculate the total purchase price,
+so I never have to use a calculator.
