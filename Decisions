@@ -1,0 +1,22 @@
+# Design Decisions
+
+## Reservations
+
+- Customers pay the entire purchase amount.
+- One purchase may contain multiple seats.
+- Each seat checks in separately.
+- Hold seats do not count as revenue.
+- Paid seats count toward revenue.
+
+## Events
+
+- Data is stored locally.
+- Events are archived permanently.
+- Ticket prices are configurable for each event.
+- Presale and Day-of prices are tracked separately.
+
+## Design
+
+- Large touch-friendly buttons.
+- Designed primarily for iPad.
+- Must work offline.
