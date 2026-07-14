@@ -12,3 +12,4 @@ Ideas for future versions.
 - [ ] Multiple volunteers using the app
 - [ ] Text message templates
 - [ ] Printable tickets
+_ [ ] Recent Customers
